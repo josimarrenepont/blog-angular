@@ -1,0 +1,31 @@
+.post-detail {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+  }
+
+  .post-detail h2 {
+    color: #333;
+  }
+
+  .post-detail p {
+    font-size: 1.1em;
+    color: #666;
+  }
+
+  .back-button {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 15px;
+    background: #007BFF;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background 0.3s;
+  }
+
+  .back-button:hover {
+    background: #0056b3;
+  }
